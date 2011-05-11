@@ -1,3 +1,5 @@
+WARNING 5.4 Branch isn't complete and shouldn't be used in production yet.
+
 Cerb5 Plugins - datacenter.databases
 ===========================================
 Copyright (C) 2011 WebGroup Media, LLC.  
@@ -11,12 +13,14 @@ Installation
 ------------
 * Change directory to **/cerb5/storage/plugins/**
 * `git clone git://github.com/rmiddle/cerberusweb.auditlog.git`
-* `git checkout --track -b 5.3 origin/5.3`
+* `git checkout --track -b 5.4 origin/5.4`
 * In your helpdesk, enable the plugin from **Setup->Features & Plugins**.
 
 Credits
 -------
 This plugin was developed by [WebGroup Media, LLC](http://www.cerberusweb.com/).
+This plugin was Update and mantained by [Robert Middleswarth](http://www.cerb5blog.com/).
+
 
 License
 -------
